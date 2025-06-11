@@ -25,7 +25,7 @@
                                                                                            ::..     
 ```
 
-This repo contains the data accompanying the code found at https://github.com/anabrains/neocortex_genomics_Foxp1
+This repo contains the code accompanying this data can be found at: https://github.com/anabrains/neocortex_genomics_Foxp1
 
 Paper can be found here: https://doi.org/10.1016/j.celrep.2025.115384 PMID: 40048431
 
